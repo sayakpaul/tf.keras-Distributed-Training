@@ -11,6 +11,15 @@ TensorFlow's [distributed strategies](https://www.tensorflow.org/api_docs/python
   
 All of these may sound very daunting if you think of the training process end-to-end. Thankfully, libraries like TensorFlow give us the freedom of incorporating distributed training very easily  -- be it for `tf.keras` models with the classic `fit` and `compile` paradigm or be it for custom training loops.  This report, however, only deals with the former. If you are interested in learning more about distributed training for custom training loops, be sure to check [this tutorial](https://www.tensorflow.org/tutorials/distribute/custom_training) out. 
 
+## Dataset used
+
+Cats vs. Dogs
+
+## Hardware
+
+- n1-standard-4vCPUs-15 GB
+- 4 Tesla k80s
+
 ## Acknowledgement
 
 ML-GDE Program (know about the GDE program [here](https://developers.google.com/community/experts)) for allowing me GCP Cloud Credits otherwise, these experiments (all of them are done on GCP) wouldn't have been possible. 
