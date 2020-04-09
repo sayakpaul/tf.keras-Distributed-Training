@@ -1,6 +1,6 @@
 # tf.keras-Distributed-Training
 
-Accompanies with [this report](https://app.wandb.ai/sayakpaul/tensorflow-multi-gpu/reports/Distributed-training-in-tf.keras--Vmlldzo3MzUwOA/edit). 
+Accompanies with [this report](https://app.wandb.ai/sayakpaul/tensorflow-multi-gpu-dist/reports/Distributed-training-in-tf.keras-with-W%26B--Vmlldzo3NzUyNA). 
 
 This repository shows how to seamlessly integrate [`tf.distribute.MirroredStrategy`](https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy) for distributing your training workloads across multiple GPUs for `tf.keras` models. Distributed training can be particularly very useful when you have very large datasets and the need to scale the training costs becomes very prominent with that. It becomes unrealistic to perform the training on only a single hardware accelerator (a GPU in this case), hence the need for performing distributed training. 
 
