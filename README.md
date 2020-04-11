@@ -20,6 +20,7 @@ Cats vs. Dogs
 - n1-standard-4vCPUs-15 GB
 - 4 Tesla k80s
 
-## Acknowledgement
+## Acknowledgements
 
-ML-GDE Program (know about the GDE program [here](https://developers.google.com/community/experts)) for allowing me GCP Cloud Credits otherwise, these experiments (all of them are done on GCP) wouldn't have been possible. 
+- ML-GDE Program (know about the GDE program [here](https://developers.google.com/community/experts)) for allowing me GCP Cloud Credits otherwise, these experiments (all of them are done on GCP) wouldn't have been possible. 
+- [Martin Gorner](https://twitter.com/martin_gorner) for his guidance. 
