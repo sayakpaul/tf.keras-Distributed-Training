@@ -19,6 +19,7 @@ Cats vs. Dogs
 
 - n1-standard-4vCPUs-15 GB
 - 4 Tesla k80s
+- Preconfigured Image: TensorFlow 2.1 (with Intel MKL-DNN/MKL and CUDA 10.1)
 
 ## Acknowledgements
 
